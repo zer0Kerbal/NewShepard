@@ -5,7 +5,7 @@ updated: 04 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Ariane 6][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![New Shepard][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -20,7 +20,7 @@ New Shepard (SHEP) is a Suborbital rocket made by Blue Origin for Kerbal Space P
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/img/HeroLogo_1920x1920.png" alt="Ariane 6 Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/img/HeroLogo_1920x1920.png" alt="New Shepard Hero" width="50%" height="50%">
 
 ---
 
@@ -145,7 +145,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:attr]: https://zer0kerbal.github.io/NewShepard/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/NewShepard/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/ "Ariane 6 Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210741-*/ "New Shepard Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/NewShepard/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/NewShepard/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/NewShepard/Notices "Notices"
@@ -158,9 +158,9 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://spacedock.info/mod/1836 "SpaceDock"
-[MOD:0:source]: https://spacedock.info/mod/1836 "SpaceDock"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/174370-*/ "KSP Forum"
+[MOD:0:dnload]: https://spacedock.info/mod/2181 "SpaceDock"
+[MOD:0:source]: https://spacedock.info/mod/2181 "SpaceDock"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/186351-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: http://www.wtfpl.net/about/ "WTFPL"
