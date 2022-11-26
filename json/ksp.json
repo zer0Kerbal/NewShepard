@@ -2,7 +2,11 @@
  "schemaVersion": 1,
  "label": "KSP",
  "labelColor": "black",
+<<<<<<< Updated upstream
  "message": "1.6.1",
+=======
+ "message": "..",
+>>>>>>> Stashed changes
  "color": "66ccff",
  "style": "plastic"
 }
