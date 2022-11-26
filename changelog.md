@@ -16,6 +16,14 @@
   * <reservoirCouleur 1.mbm> 12.289mb
   * .png 594kb
 
+* Removed duplicated (6.54mb)
+  * <int$Normal.png> 975kb
+  * <NormalMap.png> 2.351mb
+  * <solCouleur_de_Surface.png> 125kb
+  * <solNormal.png> 3.134mb
+  * <coussin_4Couleur.png> 21kb
+  * <coussin3Couleur.png> 21kb
+  * <int$Couleur.png> 77kb
 
 
 ## Version 1.2.0.0-release - `<Archival>` edition
