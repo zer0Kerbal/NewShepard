@@ -2,7 +2,11 @@
  "schemaVersion": 1,
  "label": "New Shepard",
  "labelColor": "BADA55",
+<<<<<<< Updated upstream
  "message": "1.2.0.0",
+=======
+ "message": "...",
+>>>>>>> Stashed changes
  "color": "darkgreen",
  "style": "plastic"
 }
