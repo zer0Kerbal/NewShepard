@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.9
-New Shepard (SHEP)
+New Shepard (NSHPD)
 created: 17 Jul 2017
 updated: 04 Oct 2022 -->
 
@@ -10,9 +10,9 @@ updated: 04 Oct 2022 -->
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
-# New Shepard (SHEP)
+# New Shepard (NSHPD)
 
-New Shepard (SHEP) is a Suborbital rocket made by Blue Origin for Kerbal Space Program.
+New Shepard (NSHPD) is a Suborbital rocket made by Blue Origin for Kerbal Space Program.
 
 
 
