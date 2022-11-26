@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | New Shepard (SHEP)                                                |
+| modName    | New Shepard (NSHPD)                                               |
 | ---------- | ----------------------------------------------------------------- |
 | license    | WTFPL                                                             |
 | author     | Matheo G and zer0Kerbal                                           |
