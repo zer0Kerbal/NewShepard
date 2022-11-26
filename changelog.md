@@ -25,6 +25,8 @@
 ### Status 1.2.0.0
 
 * Issues
+  * closes #7 - Archival Releases
+  * closes #22 - 1.2.0.0-release - `<Archival>` edition
 
 ---
 
@@ -40,6 +42,8 @@
 ### Status 1.1.0.0
 
 * Issues
+  * updates #7 - Archival Releases
+  * closes #21 - 1.1.0.0-release - `<Archival>` edition
 
 ---
 
@@ -55,6 +59,8 @@
 ### Status 1.0.1.0
 
 * Issues
+  * updates #7 - Archival Releases
+  * closes #20 - 1.0.1.0-release - `<Archival>` edition
 
 ---
 
@@ -71,5 +77,7 @@
 ### Status 1.0.0.0
 
 * Issues
+  * updates #7 - Archival Releases
+  * closes #19 - 1.0.0.0-release - `<Archival>` edition
 
 ---
