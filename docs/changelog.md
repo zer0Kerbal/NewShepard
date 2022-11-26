@@ -13,13 +13,29 @@ CC BY-ND 4.0 by zer0Kerbal -->
   
 | modName    | New Shepard (NSHPD)                                               |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210741-*/) |
 | github     | (https://github.com/zer0Kerbal/NewShepard)                        |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/NewShepard)           |
 | spacedock  | (https://spacedock.info/mod/2181)                                 |
 | ckan       | NewShepard                                                        |
+
+* Asset conversions
+  * <pieds1.1Couleur.mbm> 12.289mb
+  * .png 94kb
+  * <reservoirCouleur 1.mbm> 12.289mb
+  * .png 594kb
+
+* Removed duplicated (6.54mb)
+  * <int$Normal.png> 975kb
+  * <NormalMap.png> 2.351mb
+  * <solCouleur_de_Surface.png> 125kb
+  * <solNormal.png> 3.134mb
+  * <coussin_4Couleur.png> 21kb
+  * <coussin3Couleur.png> 21kb
+  * <int$Couleur.png> 77kb
+
 
 ## Version 1.2.0.0-release - `<Archival>` edition
 
