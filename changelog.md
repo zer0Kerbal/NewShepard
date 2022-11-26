@@ -10,6 +10,8 @@
 | spacedock  | (https://spacedock.info/mod/2181)                                 |
 | ckan       | NewShepard                                                        |
 
+from 30mb release size down to just under 9mb
+
 * Asset conversions
   * <pieds1.1Couleur.mbm> 12.289mb
   * .png 94kb
