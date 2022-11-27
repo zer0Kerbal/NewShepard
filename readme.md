@@ -12,7 +12,7 @@ updated: 04 Oct 2022 -->
 
 # New Shepard (NSHPD)
 
-New Shepard (NSHPD) is a Suborbital rocket made by Blue Origin for Kerbal Space Program.
+New Shepard (NSHPD) is a suborbital rocket made by Green Origins for Kerbal Space Program. Has a custom IVA.
 
 
 
@@ -39,6 +39,17 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![KSP Mods - New Shepard](https://img.youtube.com/vi/JVgJjgl104o/0.jpg)](https://www.youtube.com/watch?v=JVgJjgl104o)
+
+### Cabin notes
+
+> included is a _WIP_ [Module Manager][mml] patch for [Real Solar System][rss]
+> currently only things scaled are resources and basic engine parameters.
+> Assistance (even a cheat sheet on what scales and how much) would be appreciated.
+>
+> Some model (.mu) work should be done, that is above my abilities:
+> Booster: animations interfering with each other, legs (stock leg modules)
+> Capsule: hatch, light(s), parachute
+
 
 ### Help Wanted
 
@@ -94,7 +105,7 @@ Other mods by [Matheo G][matheog]
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
-  * [Real Fuels (RF)][rf]
+  * [RealSolarSystem (RSS)][rss]
 
 ### Tags
 
@@ -197,7 +208,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[rf]: https://forum.kerbalspaceprogram.com/index.php?/topic/58236-*/ "Real Fuels (RF)"
+[rss]: https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*/ "Real Solar System (rss)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->

@@ -19,13 +19,14 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+New Shepard (NSHPD) is a suborbital rocket made by Green Origin with custom IVA and consists of two parts.
 
 ---
 
-* Mallet
+* Booster
+* Capsule
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/GameData/NewShepard/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/docs/thumbs/nshpd-booster_icon.png" alt="Booster" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NewShepard/master/docs/thumbs/nshpd-capsule_icon.png" alt="Capsule" width="25%" height="25%" />
 
 ---
 
