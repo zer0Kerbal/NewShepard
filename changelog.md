@@ -17,6 +17,8 @@
   * for Kerbal Space Program 1.12.4
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 ### Summary 1.2.99.0
 
 * Combined the two versions of this parts addon into just one:
@@ -29,10 +31,6 @@
   * Capsule: hatch, light(s), parachute
   * IVA is begging for a 'Transparent Pod' treatment and maybe some lovely curtains
 * from 30mb release size down to just under 9mb
-
-### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
-
-### Summary
 
 ### Archival Releases
 
@@ -79,7 +77,6 @@
 * Agency
 * closes #6 - Create HeroLogo.png
 * closes #43 - Create Agency
-
 * GitHub Pages
   * docs/
     * [`_config.yml`]
@@ -147,6 +144,12 @@
 * closes #42 - Part Tags
 * closes #8 - Create Localization directory and contents
 * updates #23 - Localization - Master
+
+### Compatibility 1.2.99.0
+
+* Create
+  * [RealSolarSystem.cfg] v1.0.0.0
+  * [kOS.cfg] v1.0.0.0
 
 ### Update License 1.2.99.0
 
