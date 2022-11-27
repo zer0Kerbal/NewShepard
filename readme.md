@@ -12,7 +12,7 @@ updated: 04 Oct 2022 -->
 
 # New Shepard (NSHPD)
 
-New Shepard (NSHPD) is a Suborbital rocket made by Blue Origin for Kerbal Space Program.
+New Shepard (NSHPD) is a suborbital rocket made by Blue Origin for Kerbal Space Program.
 
 
 
