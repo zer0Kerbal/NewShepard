@@ -61,7 +61,7 @@ updated: 03 Jun 2022
 
 ### Art Asset(s)
 
-* Flags
+* [Logo](https://en.wikipedia.org/wiki/Blue_Origin#/media/File:Blue_Origin_Feather.svg)
 
 ### Testing and Support
 
