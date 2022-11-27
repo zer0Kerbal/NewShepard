@@ -10,6 +10,21 @@
 | spacedock  | (https://spacedock.info/mod/2181)                                 |
 | ckan       | NewShepard                                                        |
 
+## Version 1.2.99.1-prerelease - `<EDITION>` edition
+
+* Released
+  * on 15 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.2.99.1
+
+### Status 1.2.99.1
+
+* Issues
+
+---
+
 ## Version 1.2.99.0-adoption - `<Thank you Matheo G>` edition
 
 * Released
