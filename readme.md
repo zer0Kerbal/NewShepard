@@ -50,7 +50,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > Booster: animations interfering with each other, legs (stock leg modules)
 > Capsule: hatch, light(s), parachute
 
-
 ### Help Wanted
 
 > * Compatibility patches
@@ -96,9 +95,9 @@ or [![CKAN][ckan:img]][ckan:url]
 
 Other mods by [Matheo G][matheog]
 
+* [Ariane 6 (S3L)](https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/)
 * [Insight](https://spacedock.info/mod/1899)
 * [TESS](https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/)
-* [Ariane 6 (S3L)](https://spacedock.info/mod/2185)
 
 ### Supports
 
